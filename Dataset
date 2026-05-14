@@ -1,0 +1,9 @@
+Dataset
+
+This project uses the EuroSAT RGB Dataset for land cover classification.
+
+Dataset Link:
+[EuroSAT Dataset]
+(https://zenodo.org/records/7711810)
+
+The RGB version of the dataset is used in this project. It contains satellite images across 10 different land-cover classes including Forest, River, Residential, Highway, Industrial, and more.
